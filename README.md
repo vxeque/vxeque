@@ -2,11 +2,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on [Web programming].
-- 🌱 I’m currently learning [expressjs].
-- 🤔 I’m looking for help with [open source collaboration].
-- 💬 Ask me about [node and web programming].
-- 📫 How to reach me: [].
+- 🔭 I’m currently working on Web programming.
+- 🌱 I’m currently learning expressjs.
+- 🤔 I’m looking for help with open source collaboration.
+- 💬 Ask me about node and web programming.
 
 ## 🚀 My Projects
 
