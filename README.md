@@ -1,38 +1,27 @@
-# Hi there! I'm [Your Name](https://github.com/your-username) 👋
+# Hi there! I'm [Victo Xeque](https://github.com/vxeque) 👋
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on [interesting project].
-- 🌱 I’m currently learning [technology or skill].
-- 👯 I’m looking to collaborate on [open source projects].
-- 🤔 I’m looking for help with [specific topic].
-- 💬 Ask me about [something you're knowledgeable in].
-- 📫 How to reach me: [email address or social media links].
+- 🔭 I’m currently working on [Web programming].
+- 🌱 I’m currently learning [expressjs].
+- 🤔 I’m looking for help with [open source collaboration].
+- 💬 Ask me about [node and web programming].
+- 📫 How to reach me: [].
 
 ## 🚀 My Projects
 
-- [Project 1](https://github.com/your-username/project-1): Brief description of the project.
-- [Project 2](https://github.com/your-username/project-2): Brief description of the project.
-
-## 📝 Latest Blog Posts
-
-- [Title of Blog Post 1](https://your-blog.com/post-1): Brief description of the post.
-- [Title of Blog Post 2](https://your-blog.com/post-2): Brief description of the post.
+- [Project 1](https://github.com/vxeque/blackbull-backend): Backend for a mobile commerce app to connect local farmers with customers from the same region.
+- [Project 2](https://github.com/vxeque/astro-spacex-frontend): Frontend to display all the launches of the aerospace company spacex programmed with astro 
+ description of the post.
 
 ## 📫 How to Reach Me
 
-- Twitter: [@your-twitter](https://twitter.com/your-twitter)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-- Email: your-email@example.com
+- LinkedIn: [Victor Xeque](https://www.linkedin.com/in/victor-xeque-a64866286)
+- Email: vxeque11@gmail.com
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
-## 🎨 Collaborations and Contributions
-
-- [Contribution 1](https://github.com/project/contribution-1): Brief description of the contribution.
-- [Contribution 2](https://github.com/project/contribution-2): Brief description of the contribution.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vxeque&show_icons=true)
 
 ## ❤️ Thanks for visiting!
 
