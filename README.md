@@ -1,4 +1,4 @@
-# Hi there! I'm [Victo Xeque](https://github.com/vxeque) 👋
+# Hi there! I'm [Victor Xeque](https://github.com/vxeque) 👋
 
 ## 👨‍💻 About Me
 
