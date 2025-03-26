@@ -26,7 +26,3 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vxeque&show_icons=true)
-
-## ❤️ Thanks for visiting!
-
-Thank you for checking out my GitHub profile! I hope you find something interesting here. Feel free to reach out if you have any questions or suggestions.
